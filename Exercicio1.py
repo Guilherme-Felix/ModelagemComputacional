@@ -6,7 +6,8 @@ UFJF
 
 Objetiva plotar o valor do saldo de uma aplicação de renda fixa
 ao longo do tempo.
-@author: Guilherme Almeida Felix da Silva - 201365504AB
+
+@author: Guilherme Almeida Felix da Silva - guilherme.felix@engenharia.ufjf.br
 """
 
 import numpy as np

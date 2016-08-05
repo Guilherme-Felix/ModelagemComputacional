@@ -13,7 +13,8 @@ de iteracoes, inspecionam-se os 'n' ultimos elementos
 buscando uma repeticao periodica. Se isso acontece, temos
 um ciclo.
 
-@author: Guilherme Felix e Diego Micarello
+@author: Guilherme Felix - guilherme.felix@engenharia.ufjf.br 
+		 Diego Micarello - diego.micarello@engenharia.ufjf.br
 """
 
 import numpy as np
